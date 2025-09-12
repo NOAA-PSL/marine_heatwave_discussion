@@ -1,6 +1,6 @@
 # Marine Heatwave Discussion Archive
 
-## How to Upload/Push a New HTML File to This Repository (For Maintainers)
+## First time Upload/Push a New HTML File to This Repository (For Maintainers)
 
 If you are a maintainer and have write access to this repository, follow these steps to add a new HTML file:
 
