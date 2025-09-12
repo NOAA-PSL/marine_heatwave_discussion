@@ -42,5 +42,8 @@ git push origin main
 
 Your new HTML file will now be available in the repository.
 
+## A new monthly discussion to upload/push
+Repeat 2-6 when there is a new monthly discussion to upload/push
+
 
 
