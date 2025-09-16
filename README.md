@@ -19,10 +19,16 @@ Make sure you are logged into GitHub
 
 If you are a maintainer and have write access to this repository, follow these steps to add a new HTML file:
 
+To verify your SSH connection to GitHub, run:
+```bash
+ssh -T git@github.com
+```
+If you encounter an error, please refer to the [SSH Setup Guide](SSH_Setup_Guide.md) for troubleshooting steps.
+
 ### 1. Clone the Repository (if you haven't already)
 
 ```bash
-git clone https://github.com/NOAA-PSL/marine_heatwave_discussion.git
+git clone git@github.com:NOAA-PSL/marine_heatwave_discussion.git
 cd marine_heatwave_discussion
 ```
 
