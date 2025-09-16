@@ -1,6 +1,8 @@
 # Marine Heatwave Discussion Archive
 
 ## GitHub upload
+Make sure you are logged into GitHub 
+
 <img width="1306" height="977" alt="image" src="https://github.com/user-attachments/assets/f95b2d89-1acb-44fa-8351-ae1681bfba0d" />
 
 1. click add file
