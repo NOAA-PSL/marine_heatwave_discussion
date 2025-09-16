@@ -1,5 +1,15 @@
 # Marine Heatwave Discussion Archive
 
+## GitHub upload
+<img width="1306" height="977" alt="image" src="https://github.com/user-attachments/assets/f95b2d89-1acb-44fa-8351-ae1681bfba0d" />
+1. click add file
+2. click upload file
+<img width="1324" height="880" alt="image" src="https://github.com/user-attachments/assets/ba730c7e-abd0-451c-a46d-7fdaa01fe506" />
+3. drag drop downloaded html files
+4. put in commit message (optional but good for history tracking)
+5. click commit to main branch directly
+
+
 ## First time Upload/Push a New HTML File to This Repository (For Maintainers)
 
 If you are a maintainer and have write access to this repository, follow these steps to add a new HTML file:
